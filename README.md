@@ -21,12 +21,12 @@
   * [Credits](#credits)
   * [Tests](#tests)
   * [Questions](#questions)
-  
+
  ## Installation
 
  This app is run from the Heroku link: 
-
-
+ 
+https://git.heroku.com/fierce-falls-45988.git
 
  ## Usage
 
