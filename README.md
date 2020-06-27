@@ -26,7 +26,7 @@
 
  This app is run from the Heroku link: 
  
-https://git.heroku.com/fierce-falls-45988.git
+https://fierce-falls-45988.herokuapp.com/
 
  ## Usage
 
